@@ -1,0 +1,14 @@
+# ignore all logs
+*.log
+
+# ignore folders
+bin/
+obj/
+.vs/
+v16/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
