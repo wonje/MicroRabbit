@@ -51,7 +51,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Transfer.Api", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Transfer.Application", "MicroRabbit.Transfer.Application\MicroRabbit.Transfer.Application.csproj", "{B50DD8A7-B891-4CB6-9905-29A14B167C16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabit.Transfer.Domain", "MicroRabit.Transfer.Domain\MicroRabit.Transfer.Domain.csproj", "{96534DE1-083B-450B-BA7D-E57413C662C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Transfer.Domain", "MicroRabit.Transfer.Domain\MicroRabbit.Transfer.Domain.csproj", "{96534DE1-083B-450B-BA7D-E57413C662C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Transfer.Data", "MicroRabbit.Transfer.Data\MicroRabbit.Transfer.Data.csproj", "{7D196BC1-F1AA-40D0-B8A7-AD805F3E0F19}"
 EndProject
